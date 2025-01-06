@@ -1,6 +1,6 @@
 [package]
 name = "ChatHappeny"
-version = "0.0.2"
+version = "1.0.0"
 description = ""
 authors = ["1024xiaoshen"]
 edition = "2021"
